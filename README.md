@@ -1,4 +1,1 @@
-Ho caricato il file con una mesh e un bl abbastanza fitti quindi ci mette un po' a runnare, vi basta modififare il file "BlockMesh" e quello "snappyHexMesh" per avere meno punti.
-Le unità di misura sono in metri quindi il modello viene preso dalla cartella "modelli" e scalato da millimetri a metri. 
-La velocità è di 200m/s per avere una similitudine aerodinamica con una macchina reale.
-Io suggerirei di dividerci il lavoro: due potrebbero occuparsi dei modelli (formato obj) fatti con il cad e due della cfd.
+Upperbox_config1 è la configurazione con box sul tettuccio e montaggio classico. Sarebbe da aggiustare il bl, fare le celle a parallelepipedo invece che a cubo, aggiungere il mooving wall e la no slip anche sul terreno e far toccare le ruote con la terra.
