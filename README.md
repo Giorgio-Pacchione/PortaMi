@@ -1,1 +1,3 @@
-Upperbox_config1 è la configurazione con box sul tettuccio e montaggio classico. Sarebbe da aggiustare il bl, fare le celle a parallelepipedo invece che a cubo, aggiungere il mooving wall e la no slip anche sul terreno e far toccare le ruote con la terra.
+L'OBIETTIVO è STUDIARE L'EFFETTO DI UN ROOFBOX SUL CD DELLA MACCHINA.
+AUDI A4 UPPERBOX CONTIENE MERCEDES_STATIONWAGON CHE è IL FILE OBJ CON LA GEOMETRIA DEL VEICOLO E UN ALTRA CARTELLA MERCEDES_STATIOWAGON CHE CONTIENE I FILE DI OPENFOAM
+IN SYSTEM CI SONO I FILE SNAPPYHEX E BLOCKMESH. ATTUALMENTE FA LA MALE LA MESH, VORREMMO OTTENERE UNA MESH FATTA BENE CON UN BUON LIVELLO DI RIFINITURA.
